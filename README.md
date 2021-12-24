@@ -1,4 +1,4 @@
-# Lip_detection_under_surgical_mask
+# Lip_movement_detection_under_surgical_mask
 
 The following repository contains the code for Lip movement detection under surgical mask. Which can be used by various online platforms to focus on the person speaking in the crowd wearing mask just by using video feeds.
 
